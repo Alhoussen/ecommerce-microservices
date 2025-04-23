@@ -1,0 +1,8 @@
+/home/alhoussen/Documents/Spring/ecommerce-microservices/ecommerce-microservices/order-service/src/main/java/com/ecommerce/order/OrderApplication.java
+/home/alhoussen/Documents/Spring/ecommerce-microservices/ecommerce-microservices/order-service/src/main/java/com/ecommerce/order/client/ProductClient.java
+/home/alhoussen/Documents/Spring/ecommerce-microservices/ecommerce-microservices/order-service/src/main/java/com/ecommerce/order/client/ProductResponse.java
+/home/alhoussen/Documents/Spring/ecommerce-microservices/ecommerce-microservices/order-service/src/main/java/com/ecommerce/order/controller/OrderController.java
+/home/alhoussen/Documents/Spring/ecommerce-microservices/ecommerce-microservices/order-service/src/main/java/com/ecommerce/order/model/Order.java
+/home/alhoussen/Documents/Spring/ecommerce-microservices/ecommerce-microservices/order-service/src/main/java/com/ecommerce/order/model/OrderItem.java
+/home/alhoussen/Documents/Spring/ecommerce-microservices/ecommerce-microservices/order-service/src/main/java/com/ecommerce/order/repository/OrderRepository.java
+/home/alhoussen/Documents/Spring/ecommerce-microservices/ecommerce-microservices/order-service/src/main/java/com/ecommerce/order/service/OrderService.java
