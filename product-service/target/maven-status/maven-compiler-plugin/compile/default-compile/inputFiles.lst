@@ -1,0 +1,5 @@
+/home/alhoussen/Documents/Spring/ecommerce-microservices/ecommerce-microservices/product-service/src/main/java/com/ecommerce/product/controller/ProductController.java
+/home/alhoussen/Documents/Spring/ecommerce-microservices/ecommerce-microservices/product-service/src/main/java/com/ecommerce/product/repository/ProductRepository.java
+/home/alhoussen/Documents/Spring/ecommerce-microservices/ecommerce-microservices/product-service/src/main/java/com/ecommerce/product/service/ProductService.java
+/home/alhoussen/Documents/Spring/ecommerce-microservices/ecommerce-microservices/product-service/src/main/java/com/ecommerce/product/ProductApplication.java
+/home/alhoussen/Documents/Spring/ecommerce-microservices/ecommerce-microservices/product-service/src/main/java/com/ecommerce/product/model/Product.java
